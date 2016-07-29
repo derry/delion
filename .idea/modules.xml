@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libraries/androidmedia_res/androidmedia_res.iml" filepath="$PROJECT_DIR$/libraries/androidmedia_res/androidmedia_res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/chrome_res/chrome_res.iml" filepath="$PROJECT_DIR$/libraries/chrome_res/chrome_res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/content_res/content_res.iml" filepath="$PROJECT_DIR$/libraries/content_res/content_res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/datausagechart_res/datausagechart_res.iml" filepath="$PROJECT_DIR$/libraries/datausagechart_res/datausagechart_res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delionbrowser.iml" filepath="$PROJECT_DIR$/delionbrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/ui_res/ui_res.iml" filepath="$PROJECT_DIR$/libraries/ui_res/ui_res.iml" />
+    </modules>
+  </component>
+</project>

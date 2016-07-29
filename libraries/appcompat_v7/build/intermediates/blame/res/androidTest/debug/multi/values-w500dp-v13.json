@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/values-w500dp-v13/values-w500dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/values-w500dp-v13/values-w500dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]

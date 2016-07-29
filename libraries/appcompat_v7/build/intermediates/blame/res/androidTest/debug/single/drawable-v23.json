@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

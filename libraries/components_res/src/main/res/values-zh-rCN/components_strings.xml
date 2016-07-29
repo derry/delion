@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<!--<string name="snippets_disabled_signed_out_instructions">"To get personalized content suggested by Google, sign in to Chrome."</string>
+<string name="snippets_disabled_generic_prompt">"Get suggested content"</string>
+<string name="snippets_disabled_sync_instructions">"To get personalized content suggested by Google, turn on sync."</string>-->
+
+<!--
+<string name="snippets_disabled_history_sync_instructions">"To get personalized content suggested by Google, turn on history sync."</string>
+<string name="snippets_disabled_history_sync_action">"Turn on history sync"</string>
+<string name="snippets_disabled_passphrase_instructions">"Personalized content suggestions are currently disabled, because your synced data is protected with a custom passphrase."</string>
+-->
+</resources>

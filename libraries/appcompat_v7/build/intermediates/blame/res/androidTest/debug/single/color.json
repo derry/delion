@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
+        "source": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
+        "source": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
+        "source": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
+        "source": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
+        "source": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
+        "source": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
+        "source": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
+        "source": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/mnt/derry/361browser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/mnt/derry/delibrowser/delibrowser/libraries/appcompat_v7/build/intermediates/bundles/debug/res/color/abc_primary_text_disable_only_material_dark.xml"
+    }
+]
