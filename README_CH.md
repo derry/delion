@@ -19,7 +19,8 @@
 ---
 1.	2016年7月2日 [项目启动](http://blog.csdn.net/yangdeli888/article/details/51811169)
 2.	2016年7月27日，完成源码的编译和构建，《公英小蒲》项目诞生并[开源](https://github.com/derry/delion)。完成基于[54.0.2789.1Tag](https://chromium.googlesource.com/chromium/src/+/54.0.2789.1)，GN编译，Gradle构建
-3.	[持续更新中](http://wwww.derryy.com)
+3.	2016年7月30日，确定《公英小蒲》icon和Logo
+4.	[持续更新中](http://wwww.derryy.com)
 
 ###关于项目
 ---

@@ -1,6 +1,6 @@
 ###Delion 
 ---
-
+[中文文档](https://github.com/derry/delion/blob/master/README_CH.md)
 ###Brief Introduction
 ---
 * The main purpose is to share related issues and knowledge for Chromium for Android, which includes Chromium building, compiling and business implementation. Besides analysis and research of Chromium, it will try to create a useful and neutral instrumental product. Simple to use will be adhered. 
@@ -19,9 +19,12 @@
 ---
 1.	[The project starts on July 2nd, 2016](http://blog.csdn.net/yangdeli888/article/details/51811169)
 2.	Finish compiling and building of the source codes; delion project was born and open source on July 27th(based on 54.0.2789.1 Tag, GN compilation and Gradle building)
-3.	[Continue to develop(step by step)](http://wwww.derryy.com)
+3.	Finish delion's Logo and icon make on July 30th 
+4.	[Continue to develop(step by step)](http://wwww.derryy.com)
 
 ###A&Q
 ---
 * [RELATED DOCUMENTS](http://blog.csdn.net/yangdeli888)
 * send mail to yangdeli888@gmail.com or [leave a message](http://wwww.derryy.com)
+
+
