@@ -1,27 +1,27 @@
-###公英小蒲 （delion）
+###Delion 
 ---
 
-###简介
+###Brief Introduction
 ---
-* 以实践加研究的方式分享Chromium for Android相关构建，编译，业务实现相关问题和知识。在分析研究Chromium的同时，力求打造一款好用的，中立的工具性产品。以简单好用为第一宗旨去发展。
-* 目前该项目使用Android Gradle构建，同步[Chromium最新Tag](https://chromium.googlesource.com/chromium/src/+/54.0.2789.1)代码，使用GN编译。
-* 取名公英小蒲，寓意该项目是基于Chromium衍生的一枚“蒲公英“的种子，希望能秉承Chromium的开源精神和强大的技术基因，以及做为种子的传播使命，在国内生根发芽，茁壮成长，能够将前沿的相关知识分享扩散出去，应用在更多的场景和领域。
+* The main purpose is to share related issues and knowledge for Chromium for Android, which includes Chromium building, compiling and business implementation. Besides analysis and research of Chromium, it will try to create a useful and neutral instrumental product. Simple to use will be adhered. 
+* At present, the project was built by Android Gradle and compiled with [GN](https://chromium.googlesource.com/chromium/src/+/master/docs/android_build_instructions.md#Faster-Edit_Deploy-GN-only) on the basis of [synchronizing latest tag code](https://chromium.googlesource.com/chromium/src/+/54.0.2789.1).
+* Delion implies that the project is the seed of dandelion derived from Chromium. Hope it can take root and thrive in China adhering to the open source of Chromium, strong technique gene and propagation mission as a seed. At the same time, hope it also can share and spread out related knowledge, then used in more areas.
 
 
-###开源目的
+###The Purpose for Open Source
 ---
-1.	项目庞大，不是靠一个人就可以完全可以Hold住的，在我们学习研究同时，Google背后也有上百名的工程师在持续提交代码 。所以希望能分享自己研究进度和成果的同时，有更多的人参与进来。一起沟通交流，共同进步。（欢迎关注项目，关注博客）
-2.	秉承开源共享的精神，会把专属的项目《公英小蒲》持续做下去，无任何商业目的和功利掺杂，把浏览器作为一个中立的工具性产品去打磨。以简单好用为第一宗旨去发展。希望通过开源的方式，让更多的人了解到这个项目，使用这个项目。
-3.	浏览器开发涉及的技术非常广，有很高的研究价值，对谷歌而言这也是平台级的应用，战略级的产品。跟进他的发展节奏持续研究和开发，可以接触到谷歌第一手的技术资料和使用这样的世界级应用框架。其研究成果可以应用借鉴到很多其他应用。
+1.	The project is too large to be finished by one person. Although we are researching Chromium, hundreds of engineers from Google continue to submit codes. I am on the way of sharing my achievements. Therefore, I hope that more people take part in the research, then we can work and make progress together. (welcome to [view the project](https://github.com/derry/delion) and [my blog](http://blog.csdn.net/yangdeli888))
+2.	Adhering to open source sharing, I will continue to develop the project without any commercial purpose and utilitarianism. I will burnish the browser to a neutral tool product. The first aim will be simple to use. Hope through open source, more people know and use this project.
+3.	The browser development refers to wide technology and has high research value. For google, it is platform application and strategic product. Follow up his pace and continue to research and develop the program. Then we have access to first-hand technical data of Google and can use such a world-wide application frame. The results can be used for many other applications.
 
 
-###项目历程
+###Project Schedule (update continuously)
 ---
-1.	2016年7月2日 [项目启动](http://blog.csdn.net/yangdeli888/article/details/51811169)
-2.	2016年7月27日，完成源码的编译和构建，《公英小蒲》项目诞生并[开源](https://github.com/derry/delion)。完成基于[54.0.2789.1Tag](https://chromium.googlesource.com/chromium/src/+/54.0.2789.1)，GN编译，Gradle构建
-3.	[持续更新中](http://wwww.derryy.com)
+1.	[The project starts on July 2nd, 2016](http://blog.csdn.net/yangdeli888/article/details/51811169)
+2.	Finish compiling and building of the source codes; delion project was born and open source on July 27th(based on 54.0.2789.1 Tag, GN compilation and Gradle building)
+3.	[Continue to develop(step by step)](http://wwww.derryy.com)
 
-###关于项目
+###A&Q
 ---
-* [相关文档](http://blog.csdn.net/yangdeli888)
-* 问题提问发邮件到yangdeli888@gmail.com或[博客留言](http://wwww.derryy.com)
+* [RELATED DOCUMENTS](http://blog.csdn.net/yangdeli888)
+* send mail to yangdeli888@gmail.com or [leave a message](http://wwww.derryy.com)
