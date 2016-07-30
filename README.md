@@ -1,7 +1,9 @@
 ###Delion 
 ---
 [中文文档](https://github.com/derry/delion/blob/master/README_CH.md)
+
 ###Brief Introduction
+![](https://github.com/derry/delion/blob/master/app/src/main/res/mipmap-xxxhdpi/app_icon.png)
 ---
 * The main purpose is to share related issues and knowledge for Chromium for Android, which includes Chromium building, compiling and business implementation. Besides analysis and research of Chromium, it will try to create a useful and neutral instrumental product. Simple to use will be adhered. 
 * At present, the project was built by Android Gradle and compiled with [GN](https://chromium.googlesource.com/chromium/src/+/master/docs/android_build_instructions.md#Faster-Edit_Deploy-GN-only) on the basis of [synchronizing latest tag code](https://chromium.googlesource.com/chromium/src/+/54.0.2789.1).
@@ -27,4 +29,11 @@
 * [RELATED DOCUMENTS](http://blog.csdn.net/yangdeli888)
 * send mail to yangdeli888@gmail.com or [leave a message](http://wwww.derryy.com)
 
+###Delion IMAGES
 
+![](https://github.com/derry/delion/blob/master/imgs/device-2016-07-30-182943.png)
+![](https://github.com/derry/delion/blob/master/imgs/device-2016-07-30-183014.png)
+![](https://github.com/derry/delion/blob/master/imgs/device-2016-07-30-183051.png)
+![](https://github.com/derry/delion/blob/master/imgs/device-2016-07-30-183122.png)
+![](https://github.com/derry/delion/blob/master/imgs/device-2016-07-30-183242.png)
+![](https://github.com/derry/delion/blob/master/imgs/device-2016-07-30-183449.png)

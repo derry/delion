@@ -2,6 +2,7 @@
 ---
 
 ###简介
+![](https://github.com/derry/delion/blob/master/app/src/main/res/mipmap-xxxhdpi/app_icon.png)
 ---
 * 以实践加研究的方式分享Chromium for Android相关构建，编译，业务实现相关问题和知识。在分析研究Chromium的同时，力求打造一款好用的，中立的工具性产品。以简单好用为第一宗旨去发展。
 * 目前该项目使用Android Gradle构建，同步[Chromium最新Tag](https://chromium.googlesource.com/chromium/src/+/54.0.2789.1)代码，使用GN编译。
@@ -26,3 +27,11 @@
 ---
 * [相关文档](http://blog.csdn.net/yangdeli888)
 * 问题提问发邮件到yangdeli888@gmail.com或[博客留言](http://wwww.derryy.com)
+
+###项目截图
+![](https://github.com/derry/delion/blob/master/imgs/device-2016-07-30-182943.png)
+![](https://github.com/derry/delion/blob/master/imgs/device-2016-07-30-183014.png)
+![](https://github.com/derry/delion/blob/master/imgs/device-2016-07-30-183051.png)
+![](https://github.com/derry/delion/blob/master/imgs/device-2016-07-30-183122.png)
+![](https://github.com/derry/delion/blob/master/imgs/device-2016-07-30-183242.png)
+![](https://github.com/derry/delion/blob/master/imgs/device-2016-07-30-183449.png)
