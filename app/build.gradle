@@ -1,0 +1,49 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.0"
+    enforceUniquePackageName false
+    defaultConfig {
+        applicationId "com.delion.browser"
+        minSdkVersion 16
+        targetSdkVersion 23
+        versionCode 15
+        versionName "3.0.0"
+
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    dexOptions {
+        jumboMode = true
+        javaMaxHeapSize "4g"
+    }
+    aaptOptions {
+        noCompress "dat", "bin", "pak"
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile project(':libraries:chrome_res')
+    compile project(':libraries:ui_res')
+    compile project(':libraries:content_res')
+    /*compile project(':libraries:components_res')*/
+    /*   compile project(':libraries:appcompat_v7')*/
+    compile 'com.android.support:design:23.3.0'
+    compile 'com.android.support:support-v13:23.3.0'
+    compile 'com.android.support:support-annotations:23.3.0'
+    compile 'com.android.support:appcompat-v7:23.3.0'
+    compile 'com.android.support:recyclerview-v7:23.3.0'
+//    compile 'com.google.android.gms:play-services-cast:9.2.1'
+//    compile 'com.google.android.gms:play-services-gcm:9.2.1'
+//    compile 'com.google.android.gms:play-services-auth:9.2.1'
+//    compile 'com.google.android.gms:play-services-base:9.2.1'
+    compile 'com.google.android.gms:play-services:9.2.1'
+}
